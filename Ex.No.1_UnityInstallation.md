@@ -1,6 +1,6 @@
 # Ex.No: 1  Installation of Unity for Game Development
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 10.10.2026                                                                         
+### REGISTER NUMBER : 212224240145 
 ### AIM: 
 To install Unity2022.3.57f1 or higher version for Game Development.
 ### Procedure:
@@ -30,6 +30,7 @@ To install Unity2022.3.57f1 or higher version for Game Development.
 
 ![image](https://github.com/user-attachments/assets/c902763e-4ba5-42b7-8251-a74db9ba5a42)
 ### Output:
+<img width="1917" height="1141" alt="Screenshot 2026-10-27 134221" src="https://github.com/user-attachments/assets/2bb95d0e-172c-4eff-83fb-e44047262a50" />
 
 ### Result:
 Thus the unity installation was completed sucessfully.
