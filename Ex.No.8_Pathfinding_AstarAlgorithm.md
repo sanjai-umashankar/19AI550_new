@@ -1,10 +1,9 @@
 # Ex.No: 8  Implementation of Path finding using A* algorithm
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:  21/11/2026                                                                          
+### REGISTER NUMBER : 212224240145
 ### AIM: 
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
-```
 1. Create a New Unity Project by Open the  Unity Hub and create a new 3D Project,Name the project (e.g., Pathfinding).
 2. Create Waypoints in Scene => Create empty or sphere GameObjects ( minimum 4)  and  name it as Waypoint1, Waypoint2, ..., Waypoint4
    Position them freely in the scene (not on a grid)
@@ -14,7 +13,7 @@ To write a program to create graph using waypoints and use A* algorithm to find 
 6. Attach Waypoint script to it
 7.Write a Pathfinding algorithm using A*search
 8. Create a Game Object for Player ( choose capsule or any others) and attach the script to move player from start to end waypoints
-```  
+
 ### Program:
 ```
 **#1.Waypoint.cs**
@@ -131,6 +130,7 @@ public class AICharacter : MonoBehaviour {
         }
     }
 }
+```
 Check the following
 1. Waypoints placed in scene
 2. Neighbors set manually via Inspector
@@ -138,7 +138,14 @@ Check the following
 4. AICharacter assigned a start and goal
 ### Output:
 
+### Initial Position:
+<img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/a4fa1f13-25d2-4810-8658-dac0ba3151da" />
 
+### At Middle:
+<img width="1917" height="940" alt="image" src="https://github.com/user-attachments/assets/18ace655-87c1-4ec4-80fd-423a5ea03247" />
+
+### Final Position:
+<img width="1910" height="930" alt="image" src="https://github.com/user-attachments/assets/698d1783-beb1-419e-91c5-e2a1cafcde67" />
 
 
 
